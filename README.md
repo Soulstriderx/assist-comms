@@ -184,8 +184,8 @@ TTS Module
 </div>
 
 <p align="center">
-  <img src="https://imgur.com/a/assist-comms-2-c3xCmGh" width="50%"/>
-  <img src="https://imgur.com/a/assist-comms-1-yMkLvPz" width="50%"/>
+  <img src="https://i.imgur.com/jwM129r.png" width="45%"/>
+  <img src="https://i.imgur.com/FctVnJA.png" width="45%"/>
 </p>
 
 Images show:
