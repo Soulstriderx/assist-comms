@@ -144,9 +144,13 @@ Braille Input
 
 3. Configure socket IP addresses in `./modules/braille_receiver.py` and `./for Pi/braille_sender.py` if needed
 
-4. Connect the Raspberry Pi to the same network as the PC
+4. Install dependencies in Raspberry Pi (install evtest to test input/eventX):
 
-5. Run the application:
+    `sudo apt install python3-evdev`
+
+5. Connect the Raspberry Pi to the same network as the PC
+
+6. Run the application:
    
     `python main.py`
 
