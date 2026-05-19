@@ -220,6 +220,3 @@ Images show:
 
 Alex Sim  
 GitHub: https://github.com/Soulstriderx
-
-This project is open-source under the MIT License.
-
