@@ -139,13 +139,15 @@ Braille Input
     `git clone https://github.com/Soulstriderx/assistive-communication-system.git`
 
 2. Install Python dependencies:
+   
     `pip install customtkinter opencv-python numpy tensorflow mediapipe pillow paramiko pygame edge-tts`
 
 3. Configure socket IP addresses in `./modules/braille_receiver.py` and `./for Pi/braille_sender.py` if needed
 
 4. Connect the Raspberry Pi to the same network as the PC
 
-6. Run the application:
+5. Run the application:
+   
     `python main.py`
 
 Note: You do not need the Raspberry Pi module if you do not have one, but its the only way to run the braille module.
