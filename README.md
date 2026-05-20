@@ -99,22 +99,9 @@ Braille Input
 - Braille → Text → TTS
 
 ---
-
-<div align="center">
-
-## ⚙️ Architecture
-
-</div>
-
-- UI Layer: Jetpack Compose screens  
-- ViewModel Layer: State + logic handling  
-- Repository Layer: Firebase operations  
-- Backend: Firebase Firestore  
-
----
 <div align="center">
   
-🏗️ Tech Stack
+## 🏗️ Tech Stack
 
 </div>
 
