@@ -112,7 +112,7 @@ Braille Input
 - Deep Learning: TensorFlow / Keras
 - Hardware: Raspberry Pi
 - Communication: Python Sockets
-- 
+
 ---
 
 <div align="center">
